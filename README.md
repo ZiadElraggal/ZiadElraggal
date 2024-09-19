@@ -52,7 +52,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="[![GitHub Streak](https://streak-stats.demolab.com/ZiadElraggal=DenverCoder1)](https://git.io/streak-stats)" title="Go to Source">
+    <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=ZiadElraggal)](https://git.io/streak-stats)" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">

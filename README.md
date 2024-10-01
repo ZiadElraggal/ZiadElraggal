@@ -37,7 +37,7 @@ I'm a **Computer Engineering student** passionate about solving problems through
 
 <!-- Contributions Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZiadElraggal&theme=redical" alt="GitHub Contributions Graph">
+  <img src="./contributions.png" alt="GitHub Contributions Graph">
 </p>
 
 ---

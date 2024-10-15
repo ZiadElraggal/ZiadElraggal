@@ -56,7 +56,7 @@ I'm a **Computer Engineering student** passionate about solving problems through
 <p align="center">
   <a href="https://www.linkedin.com/in/ziad-elraggal-693a73290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:noreply.contactform.ze@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://ziadelraggal.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://ziadelraggal.github.io/ziadelraggal.github.io-main"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
 ---

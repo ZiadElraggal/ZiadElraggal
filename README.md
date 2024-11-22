@@ -14,7 +14,9 @@ I'm a **Computer Engineering student** passionate about solving problems through
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-232F3E?style=flat&logo=react)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
@@ -24,6 +26,9 @@ I'm a **Computer Engineering student** passionate about solving problems through
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/-Docker-232F3E?style=flat&logo=docker)
+
 
 
 ---

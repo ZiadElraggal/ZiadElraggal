@@ -37,7 +37,7 @@ I'm a **Computer Engineering student** passionate about solving problems through
 
 <!-- Contributions Graph -->
 <p align="center">
-  <img src="./contributions.png" alt="GitHub Contributions Graph">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElraggal&layout=compact&theme=radical)
 </p>
 
 ---
@@ -45,9 +45,9 @@ I'm a **Computer Engineering student** passionate about solving problems through
 ## 🔍 **What I’m Currently Working On:**
 
 - 🌱 Learning **Machine Learning** and **Deep Learning** with Python(Jupyter)
-- 🚀 Building an emotional detection model for game interactions
+- 🚀 Building a fall detection appliation based on a machine learning model
 - 🛠️ Developing a backend API for **chart generation** using FastAPI and Python
-- 🤖 Experimenting with **facial expression recognition**
+- 🤖 Experimenting with **React Native and Machine Learning**
 
 ---
 
@@ -63,10 +63,11 @@ I'm a **Computer Engineering student** passionate about solving problems through
 
 ## 📚 **Recent Projects:**
 
-### 1. **Facial Expression Detection for Game Interactions**
-   - A machine learning model that detects facial expressions to control game characters.
-   - Built using **Python**, **OpenCV**, and **PyTorch**.
-   - In Progress! Come back Soon
+### 1. **HEART (Full-stack mobile application with a machine learning model)**  
+- An innovative application designed for fall detection and emergency monitoring.  
+- Connects seamlessly to a machine learning model to track status updates and send alerts.  
+- Built with **React Native**, **FastAPI**, and **SafeStep ML model** integration.  
+- *In Progress! Come back soon!*  
 
 ### 2. **Personal Portfolio Website**
    - A Website with animations to showcase my skills.

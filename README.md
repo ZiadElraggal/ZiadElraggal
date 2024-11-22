@@ -37,7 +37,7 @@ I'm a **Computer Engineering student** passionate about solving problems through
 
 <!-- Contributions Graph -->
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElraggal&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElraggal&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -66,13 +66,14 @@ I'm a **Computer Engineering student** passionate about solving problems through
 ### 1. **HEART (Full-stack mobile application with a machine learning model)**  
 - An innovative application designed for fall detection and emergency monitoring.  
 - Connects seamlessly to a machine learning model to track status updates and send alerts.  
-- Built with **React Native**, **FastAPI**, and **SafeStep ML model** integration.  
+- Built with **React Native**, **FastAPI**, and **SafeStep ML model** integration.
+- [Website Link](https://ziadelraggal.github.io/ziadelraggal.github.io-HEART/) 
 - *In Progress! Come back soon!*  
 
 ### 2. **Personal Portfolio Website**
    - A Website with animations to showcase my skills.
    - Developed using **React.js**, **TypeScript**
-   - [Project Link](https://github.com/ZiadElraggal/ZiadElraggal.github.io)
+   - [Project Link](https://ziadelraggal.github.io/ziadelraggal.github.io-main/)
 
    ### 3. **Data Recording, Visualization & Analysis Tool**
    - A MATLAB based software that works with Keithley multimeters for data recording and visualization.
